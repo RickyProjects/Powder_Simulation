@@ -1,3 +1,3 @@
 Powder Simulation in C++
 
-To test, download the file "powder_simulation" and open sand.exe.
+To try, download the zip file "dist" and open sand.exe.
